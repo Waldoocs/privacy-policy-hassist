@@ -7,4 +7,4 @@ By using this integration, you agree to the following:
 - You are solely responsible for the content that is stored and managed through this tool.
 - The tool is provided as-is without any guarantees or warranties.
 
-If you have any questions or concerns, please contact us at [your-email@example.com].
+If you have any questions or concerns, please contact us at [kenanburakkenan@gmail.com].
