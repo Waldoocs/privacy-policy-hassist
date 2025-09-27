@@ -4,4 +4,4 @@ This is a personal tool used to manage files between Home Assistant and Google D
 
 No data is stored on any external servers or shared with third parties.
 
-If you have any concerns about privacy, please contact us at [kenan@mail.dk].
+If you have any concerns about privacy, please contact us at [kenanburakkenan@gmail.com].
